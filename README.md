@@ -52,7 +52,7 @@ If you want to remove the storage, simply click the eject button on Finder.
 
 You can turn this script into an application through ScriptEditor. When used as an application, it is possible to mount NTFS storage more easily.
 
-However, for the sake of publishing the script, I will not upload the separate application.
+However, for the sake of opening the script, I will not upload the separate application.
 
 ## Credits
 
