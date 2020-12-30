@@ -48,7 +48,13 @@ brew install ntfs-3g
 
 If you want to remove the storage, simply click the eject button on Finder.
 
-## Credits ##
+## Usage
+
+You can turn this script into an application through ScriptEditor. When used as an application, it is possible to mount NTFS storage more easily.
+
+However, for the sake of publishing the script, I will not upload the separate application.
+
+## Credits
 
 [macFuse](https://osxfuse.github.io)
 
