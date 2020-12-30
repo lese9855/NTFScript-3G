@@ -28,7 +28,7 @@ brew install --cask osxfuse
 brew install ntfs-3g
 ```
 
-3. Now, run NTFScript-3G. `diskutil list` will appear in the terminal.
+3. Now, run [NTFScript-3G](https://github.com/lese9855/NTFScript-3G/releases/latest). `diskutil list` will appear in the terminal.
 
 4. Find the Identifier of the NTFS Storage and enter it on Pop-up dialogue.
 
