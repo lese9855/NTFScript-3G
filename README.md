@@ -30,7 +30,7 @@ brew install ntfs-3g
 
 3. Now, run [NTFScript-3G](https://github.com/lese9855/NTFScript-3G/releases/latest). `diskutil list` will appear in the terminal.
 
-4. Find the Identifier of the NTFS Storage and enter it on Pop-up dialogue.
+4. Find the Identifier of the NTFS Storage and enter it on the pop-up dialogue.
 
 ![alt text](https://raw.githubusercontent.com/lese9855/NTFScript-3G/main/Pictures/Screenshot_01.png)
 
@@ -44,7 +44,7 @@ brew install ntfs-3g
 
 ![alt text](https://raw.githubusercontent.com/lese9855/NTFScript-3G/main/Pictures/Screenshot_03.png)
 
-7. That's all! Now you can write to NTFS drives!
+7. That's all! Now you can write to the NTFS storages!
 
 If you want to remove the storage, simply click the eject button on Finder.
 
